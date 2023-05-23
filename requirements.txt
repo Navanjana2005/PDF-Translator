@@ -64,7 +64,7 @@ PyPDF2==3.0.1
 pyperclip==1.8.2
 pypiwin32==223
 pypng==0.20220715.0
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 pyttsx3==2.90
 pyusb==1.2.1
 pywin32==306
