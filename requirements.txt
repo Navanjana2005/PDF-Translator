@@ -64,12 +64,7 @@ PyPDF2==3.0.1
 pyperclip==1.8.2
 pypiwin32==223
 pypng==0.20220715.0
-PyQt5==5.15.9
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.12.1
 python-dotenv==1.0.0
-python-telegram-bot==20.2
-python-weather==1.0.2
 pyttsx3==2.90
 pyusb==1.2.1
 pywin32==306
