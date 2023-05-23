@@ -20,7 +20,6 @@ colorama==0.4.6
 comtypes==1.1.14
 cryptography==40.0.2
 distlib==0.3.6
-Django==4.2.1
 docutils==0.20.1
 Eel==0.16.0
 filelock==3.12.0
